@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Fleur+De+Leah&display=swap");
+
+body {
+  background-color: black;
+  color: #fff;
+}
+
+.text {
+  line-height: 30px;
+}
+
+.element {
+  font-family: "Fleur De Leah", cursive;
+  color: greenyellow;
+}
